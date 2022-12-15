@@ -3,5 +3,5 @@ Dans ce projet on va réaliser un système de détection de fuite de gaz contrô
 
 
 <br>
-Mots clés: Arduino, RFID, Pointage, rc522, wemos <br>
+Mots clés: Arduino, MQ-6, Gaz, wemos, GPL <br>
 Lien du Blog: https://tingene.com/blog/index.php?article107/detecter-le-gaz-gpl-avec-arduino-mq-6
